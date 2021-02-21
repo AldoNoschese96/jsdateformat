@@ -1,18 +1,19 @@
 {
-  "name": "jsdateformat",
+  "name": "jsdatefrdt",
   "version": "1.0.0",
-  "description": "A Javascript micro library that allows you to format dates easily",
+  "description": "JsDateFormat is a Javascript micro library that allows you to format dates easily",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "Javascript",
-    "Date",
-    "Formatter",
-    "micro",
-    "library"
-  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AldoNoschese96/jsdateformat.git"
+  },
   "author": "Aldo Noschese",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AldoNoschese96/jsdateformat/issues"
+  },
+  "homepage": "https://github.com/AldoNoschese96/jsdateformat#readme"
 }

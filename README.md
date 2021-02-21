@@ -5,7 +5,7 @@ JsDateFormat is a Javascript micro library that allows you to format dates easil
 ## Installation
 
 ```bash
-npm install jsdateformat --save
+npm install jsdatefrdt --save
 ```
 
 ## Usage
