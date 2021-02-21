@@ -11,8 +11,8 @@ npm install jsdatefrdt --save
 ## Usage
 
 ```python
-const {formatDate} = require('jsdateformat')
-import {formatDate} from 'jsdateformat';
+const {formatDate} = require('jsdatefrdt')
+import {formatDate} from 'jsdatefrdt';
 
 formatDate({format : "dd/mm/yyyy"})
 # Ex: Returns "01/02/2021"
@@ -30,8 +30,8 @@ formatDate({})
 # Without any arguments returns the current date formatted "dd/mm/yyyy"
 # Ex: "01/01/2021"
 
-const {getDay , getMonth , getYear} = require('jsdateformat');
-import {getDay  , getMonth , getYear} from 'jsdateformat';
+const {getDay , getMonth , getYear} = require('jsdatefrdt');
+import {getDay  , getMonth , getYear} from 'jsdatefrdt';
 
 getDay()
 # Returns the current day
